@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mrblockhouse.barbecue",
+  "name": "MrBlockhouse's Barbecue",
+  "description": "The most delicious way to process meat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrBlockhouse"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
